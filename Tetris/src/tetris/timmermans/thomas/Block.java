@@ -25,6 +25,7 @@ public class Block extends Component {
         yPosition = yPos;
         this.color = color;
         canvas = drawingCanvas;
+        //blabla
 		
 	}
 	
